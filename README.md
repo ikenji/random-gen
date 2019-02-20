@@ -1,7 +1,7 @@
 # Ready
 
-$ gem install bundler
-$ bundle install --path vendor/bundle
+$ gem install bundler  
+$ bundle install --path vendor/bundle  
 $ vim sample.rb # edit constant COUNT and REGEXP
 
 # Run
